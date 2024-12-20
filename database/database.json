@@ -200,9 +200,9 @@
   ],
   "clearchat": [
     {
-      "id": "6285156137901@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6285156137901@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "FAE0F8EB775700988D6822E3F743032F"
       },
@@ -214,9 +214,9 @@
       "expired": 1664795040304
     },
     {
-      "id": "6285720923044@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6285720923044@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "32E9CBA066F5AD0339D408B815C9EE3E"
       },
@@ -228,9 +228,9 @@
       "expired": 1664795152894
     },
     {
-      "id": "6287803246938@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6287803246938@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "CD7585F7D43BA8C9B5D0D655EFF4C7EC"
       },
@@ -242,9 +242,9 @@
       "expired": 1664800385345
     },
     {
-      "id": "6285668404501@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6285668404501@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "A5D7BAFB9840B87D17FFE682B99FA1EC"
       },
@@ -256,9 +256,9 @@
       "expired": 1664800543858
     },
     {
-      "id": "6282197220546@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6282197220546@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "6529151E69D27ACA22AD4EBCFA78D1FB"
       },
@@ -270,9 +270,9 @@
       "expired": 1664800787657
     },
     {
-      "id": "6289618724990@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6289618724990@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "75CD8AAEF226CCEC87FCA96A38CABEC2"
       },
@@ -284,9 +284,9 @@
       "expired": 1664801232575
     },
     {
-      "id": "6288286365208@s.whatsapp.net",
+      "id": "2349160389329@s.whatsapp.net",
       "key": {
-        "remoteJid": "6288286365208@s.whatsapp.net",
+        "remoteJid": "2349160389329@s.whatsapp.net",
         "fromMe": false,
         "id": "D9851543160D5E314DCE283F417AD230"
       },
@@ -299,7 +299,7 @@
     }
   ],
   "users": {
-    "6281316643491@s.whatsapp.net": {
+    "2349160389329@s.whatsapp.net": {
       "name": "ehan",
       "balance": 11500,
       "money": 3000,
@@ -309,7 +309,7 @@
       "skata": 0,
       "registered": true,
       "pasangan": 0,
-      "id": "6281316643491",
+      "id": "2349160389329",
       "date": "9 Agustus 2024",
       "hit": 41,
       "glimit": 30,
@@ -472,7 +472,7 @@
       "bibitmangga": 0,
       "bibitjeruk": 0
     },
-    "6283194413660@s.whatsapp.net": {
+    "2349160389329@s.whatsapp.net": {
       "name": "dnz",
       "balance": 1500,
       "money": 0,
@@ -482,7 +482,7 @@
       "skata": 0,
       "registered": false,
       "pasangan": 0,
-      "id": "6283194413660",
+      "id":"2349160389329",
       "date": "9 Agustus 2024",
       "hit": 0,
       "glimit": 30,
